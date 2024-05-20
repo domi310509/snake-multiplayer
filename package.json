@@ -1,0 +1,14 @@
+{
+  "name": "multiplayer",
+  "version": "1.0.0",
+  "description": "multiplayer version of snake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "domi310509",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
